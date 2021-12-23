@@ -1,0 +1,50 @@
+header {
+		height: 40% !important;
+		background-image: url('Header2_Pic.jpg'); 
+	   	background-size: cover;
+		display: flex;
+	        align-items: center;
+	        justify-content: center;        
+		flex-direction: column;
+	        width: 100%;
+	        text-align: center;
+	}
+	
+
+	h1 { 
+		font-size: 48px
+	}
+	
+
+	h2 {
+		font-size: 40px
+	}
+	
+
+	body {
+		background-color: #f3ffe6;
+	}
+		
+	nav {
+	  margin: 0px;
+	  padding: 0;
+	  display: flex;
+	  justify-content: space-around;
+		background-color: #006600;
+	}
+	
+
+	nav a {
+	    font-size: 30px;
+	}
+	
+
+	a {
+		margin: 0px;
+		font-size: medium;
+	}
+	
+
+	p {
+		text-align: center;
+	}
